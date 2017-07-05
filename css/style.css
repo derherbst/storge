@@ -1,5 +1,6 @@
 html {
-  font-family: 'IM Fell DW Pica', Arial, serif;
+/*  font-family: 'IM Fell DW Pica', Arial, serif;*/
+  font-family: 'Share', Arial, cursive;
   font-size: 1.2rem;
   line-height: 1.2em;
   font-weight: 400;
@@ -122,4 +123,5 @@ body {
   margin: 0;
   font-size: .8rem;
   text-align: justify;
+  letter-spacing: 1px;
 }
