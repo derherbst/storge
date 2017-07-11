@@ -121,6 +121,15 @@ body {
   display: block;
 }
 
+.page-sections__item--home {
+  display: none;
+}
+
+.page-sections__item--home img {
+  width: 100%;
+  height: auto;
+}
+
 .page-sections__text {
   margin: 0;
   font-size: .8rem;
