@@ -1,6 +1,6 @@
 'use strict';
 
-var allDiv = 5;
+var allDiv = 4;
 var i;
 var linkList = document.querySelector('.main-nav__list');
 //var dialogWindow = document.querySelector('.page-sections__item');
